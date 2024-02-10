@@ -83,7 +83,10 @@
   "dependencies": {
     "glur": "^1.1.2",
     "lcs-image-diff": "^2.2.0",
-    "pngjs": "^7.0.0"
+    "leaflet": "^1.9.4",
+    "nouislider": "^15.7.1",
+    "pngjs": "^7.0.0",
+    "swiper": "^11.0.6"
   },
   "editorconfig-cli": [
     "*.json",
